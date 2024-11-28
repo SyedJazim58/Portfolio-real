@@ -74,6 +74,10 @@ section {
 }
 .home-img img{
     width: 35vw;
+    border-radius: 100%;
+    border-top-left-radius: 100px 100px;
+    background: transparent;
+    padding-left: 50px;
 }
 .home-content h3{
     font-size: 3.2rem;
