@@ -135,6 +135,9 @@ span{
 }
 .about-img img{
     width: 35vw;
+    border-radius: 100%;
+    border-top-left-radius: 100px 100px;
+    ;
 }
 .heading{
     text-align: center;
